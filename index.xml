@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Wenying Deng|Business Analyst|Data Analyst </title>
+        <link>https://wenyingdeng.gothub.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2022 02:38:14 -0400</lastBuildDate>
+            <atom:link href="https://wenyingdeng.gothub.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>ToyHorse Project</title>
+    <link>https://wenyingdeng.gothub.io/posts/mypost/</link>
+    <pubDate>Mon, 11 Jul 2022 02:38:14 -0400</pubDate>
+    <author>Author</author>
+    <guid>https://wenyingdeng.gothub.io/posts/mypost/</guid>
+    <description><![CDATA[K-means analysis, Conjoint analysis, R, market simulating
+public static void mian(String[]args){ System.out.println(&#34;This is a print statement&#34;); } ]]></description>
+</item>
+</channel>
+</rss>
